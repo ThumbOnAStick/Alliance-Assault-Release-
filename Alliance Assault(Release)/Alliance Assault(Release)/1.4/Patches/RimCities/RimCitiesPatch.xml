@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>RimCities</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/WorldObjectDef[defName="City_Faction"]</xpath>
+					<value>
+						<comps>
+							<li Class="Non_Plyaer_Assault.WorldObjectCompProperties_AllianceAssult">
+							</li>
+						</comps>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

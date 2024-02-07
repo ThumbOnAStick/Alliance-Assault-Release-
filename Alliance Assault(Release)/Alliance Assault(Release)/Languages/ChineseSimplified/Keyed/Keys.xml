@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!--Settings-->
+	<AllianceAssault>委托袭击</AllianceAssault>
+	<AssaultPoints>委托袭击点数</AssaultPoints>
+	<AssaultPoints.Explained>委托袭击事件的点数，决定了袭击的强度</AssaultPoints.Explained>
+
+	<!--Gameplay-->
+	<CommandAllianceAssult>委托袭击</CommandAllianceAssult>
+	<CommandAllianceAssultDesc>让你的盟友攻击这个据点，消耗50点好感</CommandAllianceAssultDesc>
+	<CommandCancelAttack>取消进攻</CommandCancelAttack>
+	<LetterAllyAssualtEnemyBase>进攻很快就会开始。</LetterAllyAssualtEnemyBase>
+</LanguageData>
