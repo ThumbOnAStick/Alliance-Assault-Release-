@@ -9,3 +9,5 @@
 **RimCities:** Force assault point to 10000, summons 3 raids in 8 hours, low-tech factions won't attack cities.
 
 **Vanilla Faction Expanded:** Allows you to assault mechanoid ships.
+
+**Factional War:** Allows you to ovserve factional war sites.
