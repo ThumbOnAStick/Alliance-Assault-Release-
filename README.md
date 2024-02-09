@@ -10,4 +10,4 @@
 
 **Vanilla Faction Expanded:** Allows you to assault mechanoid ships.
 
-**Factional War:** Allows you to ovserve factional war sites.
+**Factional War:** Allows you to observe factional war sites.
