@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="ResourceBase">
+		<defName>MechRaidsSummoner</defName>
+		<label>mech raids summoner</label>
+		<description>Craft one of this and load it into transport pod and target one of the hostile settlements. once the transport pod arrives,a mechanoid raid will be summoned in the target location.</description>
+		<graphicData>
+			<texPath>Things/MechRaidsSummoner</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<Flammability>0</Flammability>
+			<MaxHitPoints>100</MaxHitPoints>
+			<MarketValue>1000</MarketValue>
+			<Mass>1</Mass>
+			<DeteriorationRate>1.0</DeteriorationRate>
+			<WorkToMake>1000</WorkToMake>
+		</statBases>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<recipeMaker>
+			<researchPrerequisite>Electricity</researchPrerequisite>
+			<workSkill>Crafting</workSkill>
+			<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+			<effectWorking>Smith</effectWorking>			
+			<recipeUsers>
+				<li>FabricationBench</li>
+				<li>TableMachining</li>
+			</recipeUsers>
+			<unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+			<soundWorking>Recipe_Smith</soundWorking>
+		</recipeMaker>
+		<costList>
+			<Steel>15</Steel>
+			<ComponentIndustrial>5</ComponentIndustrial>
+			<ComponentSpacer>1</ComponentSpacer>
+		</costList>
+		<stackLimit>1</stackLimit>
+		<soundInteract>Metal_Drop</soundInteract>
+		<soundDrop>Standard_Drop</soundDrop>
+		<healthAffectsPrice>false</healthAffectsPrice>
+
+		<comps>
+			<li Class="Non_Plyaer_Assault.CompProperties_WorldSummonMechRaid"></li>
+		</comps>
+	</ThingDef>
+</Defs>

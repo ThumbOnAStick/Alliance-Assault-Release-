@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Spectator Mode(Alliance Assault Release)\1.4\Assemblies\Non-Plyaer Assult.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Spectator Mode(Alliance Assault Release)\1.4\Assemblies\Non-Plyaer Assult.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Spectator Mode(Alliance Assault Release)\Source\Spectator Mode\Non-Plyaer Assult\obj\Debug\Spectator Mode.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Spectator Mode(Alliance Assault Release)\Source\Spectator Mode\Non-Plyaer Assult\obj\Debug\Spectator Mode.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Spectator Mode(Alliance Assault Release)\Source\Spectator Mode\Non-Plyaer Assult\obj\Debug\Non-Plyaer Assult.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Spectator Mode(Alliance Assault Release)\Source\Spectator Mode\Non-Plyaer Assult\obj\Debug\Non-Plyaer Assult.pdb

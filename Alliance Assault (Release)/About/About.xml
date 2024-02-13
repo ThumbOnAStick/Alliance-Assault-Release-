@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Spectator Mode(Alliance Assault Release)</name>
+	<author>Thumb</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>Allows you to let your ally assault enemy settlement without having to do it yourself, however it takes 50 goodwill to make them do the job.</description>
+	<packageId>Thumb.AllianceAssaultRelease</packageId>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>	
+	</modDependencies>
+	
+	<loadAfter>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>Cabbage.RimCities</li>
+		<li>OskarPotocki.VFE.Mechanoid</li>
+		<li>SR.ModRimworld.FactionalWar</li>
+		<li>OskarPotocki.VFE.Pirates</li>
+	</loadAfter>
+
+	<incompatibleWith>
+		<li>Thumb.AllianceAssault</li>
+	</incompatibleWith>
+	
+</ModMetaData>
