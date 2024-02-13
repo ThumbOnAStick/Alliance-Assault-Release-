@@ -22,4 +22,4 @@
 # Planned:
 - ${\color{Green}Insectoid Raids}$ against enemy bases
 - Drop a Psychic animal pulser on an enemy base to trigger ${\color{Orange}Man Hunter Pack}$
-
+- Raid sometimes target an enemy base instead.
