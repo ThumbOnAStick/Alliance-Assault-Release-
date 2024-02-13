@@ -1,5 +1,5 @@
 > [!NOTE]
-> Name Change: From ***Alliance Assault*** to ***Spectator mode***, since mechanoids, insectoids and animals are not your allies but they can still raid hostile settlements.
+> Name Change: From ***Alliance Assault*** to ***Spectator Mode***, since mechanoids, insectoids and animals are not your allies but they can still raid hostile settlements.
 
 # New Features:
 - Can choose raid strategy for your ally
